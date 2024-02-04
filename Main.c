@@ -1,3 +1,7 @@
+/// @see https://github.com/endurodave/CoreDumpARM
+/// @see https://github.com/endurodave/CoreDump
+/// David Lafreniere, January 2017.
+
 #include <stm32f10x.h>
 #include "CoreDump.h"
 #include "Fault.h"
