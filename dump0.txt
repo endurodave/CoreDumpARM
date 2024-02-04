@@ -1,0 +1,38 @@
+Type: Software Assertion
+Date: 4/4/2016
+Time: 3:39:53 PM
+File Name: ..\Reset.c
+Line Number: 103
+Aux Code: 4
+Software Version: 1.1
+R0: 0x78cfb5df
+R1: 0x46708197
+R2: 0x99fe5c0f
+R3: 0xa0214018
+R12: 0xeb253f23
+LR: 0x68467d02
+PC: 0x7e9fdcfa
+xPSR: 0x490aa000
+CFSR: 0x9eed0939
+HFSR: 0xa04625b0
+MMFAR: 0x36fe8e5e
+BFAR: 0x11430031
+AFSR: 0xdeabffea
+
+Stack 0: 0x8023c28
+Stack 1: 0x8035e58
+Stack 2: 0x80238d5
+Stack 3: 0x8023ba7
+Stack 4: 0x80133dd
+Stack 5: 0x8013525
+Stack 6: 0x8023c28
+Stack 7: 0x8035e58
+Stack 8: 0x80238d5
+Stack 9: 0x8023ba7
+Stack 10: 0x80133dd
+Stack 11: 0x8013525
+Stack 12: 0x8023c28
+Stack 13: 0x8035e58
+Stack 14: 0x80238d5
+Stack 15: 0x8023ba7
+

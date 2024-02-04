@@ -1,0 +1,47 @@
+Dependencies for Project 'CoreDump', Target 'STM32F103 Simulator': (DO NOT MODIFY !)
+F (startup_stm32f10x_md.s)(0x53470C8A)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x--list .\lst\startup_stm32f10x_md.lst --xref -o .\obj\startup_stm32f10x_md.o --depend .\obj\startup_stm32f10x_md.d)
+F (system_stm32f10x.c)(0x53470C8A)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --use_frame_pointer-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x53470A32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x5384F9B6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53470D34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x530383D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x530383D0)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x53470A32)
+F (Retarget.c)(0x53470C8A)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --use_frame_pointer-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\rt_misc.h)(0x53470D34)
+F (.\Main.c)(0x5737240B)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --use_frame_pointer-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x53470A32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x5384F9B6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53470D34)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x530383D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x530383D0)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x53470A32)
+I (CoreDump.h)(0x57261432)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53470D34)
+I (CoreDumpData.h)(0x57260DAC)
+I (Fault.h)(0x5724D768)
+F (.\CoreDump.c)(0x57364F4A)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --use_frame_pointer-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD-o .\obj\coredump.o --omf_browse .\obj\coredump.crf --depend .\obj\coredump.d)
+I (CoreDump.h)(0x57261432)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53470D34)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53470D34)
+I (CoreDumpData.h)(0x57260DAC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53470D34)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x53470A32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x5384F9B6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x530383D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x530383D0)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x53470A32)
+F (.\CoreDump.h)(0x57261432)()
+F (.\CoreDumpData.h)(0x57260DAC)()
+F (.\Fault.c)(0x5735F1F7)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --use_frame_pointer-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD-o .\obj\fault.o --omf_browse .\obj\fault.crf --depend .\obj\fault.d)
+I (Fault.h)(0x5724D768)
+I (CoreDump.h)(0x57261432)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53470D34)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53470D34)
+I (CoreDumpData.h)(0x57260DAC)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x53470A32)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x5384F9B6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x530383D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x530383D0)
+I (C:\Keil_v5\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x53470A32)
+F (.\Fault.h)(0x5724D768)()
